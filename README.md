@@ -103,10 +103,6 @@ main() async {
 - Use `Isolate.current.addErrorListener` to capture uncaught errors
   in the root zone.
 
-## Found a bug?
-
-Please file it at https://github.com/flutter/flutter/issues/new
-
 [flutter]: https://flutter.dev
 [run_zoned_guarded]: https://api.dartlang.org/stable/dart-async/runZonedGuarded.html
 [flutter_error]: https://docs.flutter.io/flutter/foundation/FlutterError/onError.html
